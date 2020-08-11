@@ -11,6 +11,11 @@ public class deneme {public deneme() {
 
 	System.out.println("this is from alpaslan");
 
+	
+	System.out.println("conflict on the way");
+
+
+
 }
 	
 	
