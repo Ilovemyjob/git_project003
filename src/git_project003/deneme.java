@@ -6,7 +6,11 @@ public class deneme {public deneme() {
 	
 	
 	System.out.println("1. from local");
+
 	System.out.println("conflict");
+
+	System.out.println("this is from alpaslan");
+
 }
 	
 	
